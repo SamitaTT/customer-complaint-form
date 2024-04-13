@@ -15,6 +15,7 @@ function ComplaintPage() {
         <div className="text-center flex justify-center items-center md:flex-col lg:flex-row lg:justify-evenly">
           <img
             src="/customer-complaint.jpg"
+            alt="customer-complaint-image"
             className="hidden md:block md:w-4/12"
           ></img>
           <ComplaintForm />
