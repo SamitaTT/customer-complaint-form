@@ -7,7 +7,8 @@ Complaint form with input validation and support for multiple languages.
 - Required fields for submission: First Name, Last Name, Email or Phone Number, and Complaint Details.
 - Validation for email and phone number formats.
 - Complaint details limit to 1000 characters.
-- Support for English and Thai language with i18next
+- Provides responsive designs
+- Support for English and Thai languages with i18next
 
 ## Built With
 
