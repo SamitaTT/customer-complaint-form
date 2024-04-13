@@ -26,5 +26,5 @@ $ npm install
 $ npm run dev
 ```
 
-Open http://localhost:3000 with your browser to see the result.
+Open http://localhost:5173 with your browser to see the result.
 or [Click here for Preview](https://customer-complaint-form-9sro.onrender.com/)
